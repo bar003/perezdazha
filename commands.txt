@@ -1,0 +1,6 @@
+nano docker-compose.yml
+docker-compose up -d
+docker ps
+docker inspect 8fa849
+docker inspect f66a2
+nano Dockerfile
